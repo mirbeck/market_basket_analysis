@@ -1,6 +1,6 @@
 # Project: Marker Basket Analysis 
 # Date: 11 Nov 2019
-# Author: Matias Barra
+# Author: Mirbek Toktogaraev and Matias Barra  
 
 # Script purpose: perform a market basket analysis to help Blackwell's board 
 # of directors to better understand the clientele that Electronidex is currently 
